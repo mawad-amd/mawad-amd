@@ -16,13 +16,6 @@ Focused on programming models, runtimes, and tooling for large-scale AI/LLM work
 
 ⚙️ **[IRON (MLIR-AIE)](https://github.com/Xilinx/mlir-aie):** Contributor to a low-level development stack for AMD Ryzen™ AI NPUs, including Python APIs and MLIR-based compilation flows.
 
-## System Perspective
-
-End-to-end stack for AI-driven GPU performance engineering:  
-**Iris → programming model** · **IntelliKit → observability** · **IntelliPerf → optimization**
-
-Bridging low-level GPU execution with high-level AI systems.
-
 ## Research Background
 
 Ph.D., UC Davis (advised by John Owens).  
